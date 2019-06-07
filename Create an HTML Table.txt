@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Assignment to Create an HTML Table</h2>
+<table style="width:100%">
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th> 
+    <th>Company</th>
+  </tr>
+  <tr>
+    <td>Eric</td>
+    <td>Zebrowski</td>
+    <td>Price Club</td>
+  </tr>
+  <tr>
+    <td>Roy</td>
+    <td>Robertson</td>
+    <td>Coon Chicken Inn</td>
+  </tr>
+  <tr>
+    <td>Aletha</td>
+    <td>Calloway</td>
+    <td>Belle Ladi</td>
+  </tr>
+  <tr>
+    <td>Esther</td>
+    <td>Propp</td>
+    <td>Circuit City</td>
+  </tr>
+  <tr>
+    <td>Linda</td>
+    <td>Doris</td>
+    <td>Sure Save</td>
+ </tr>
+ <tr>
+    <td>Melanie</td>
+    <td>Mingle</td>
+    <td>Lafayette Radio</td>
+  </tr>
+  <tr>
+    <td>Delores</td>
+    <td>Laguna</td>
+    <td>Mr Fables</td>
+  </tr>
+    <tr>
+    <td>William</td>
+    <td>White</td>
+    <td>Wag's</td>
+  </tr>
+  <tr>
+    <td>Tonda</td>
+    <td>Espinoza</td>
+    <td>Konsili</td>
+  </tr>
+  <tr>
+    <td>Nathaniel</td>
+    <td>Villegas</td>
+    <td>Irving's Sporting Goods</td>
+  </tr>
+</table>
+
+</body>
+</html>
